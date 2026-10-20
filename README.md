@@ -6,7 +6,7 @@
 
 I build backend services and practical developer tools, with a focus on learning by building, clear architecture, and maintainable code.
 
-[Repositories](https://github.com/GoldenboyBBC?tab=repositories) · [Projects](https://github.com/GoldenboyBBC?tab=projects)
+[Repositories](https://github.com/GoldenboyBBC?tab=repositories)
 
 </div>
 
